@@ -1,0 +1,10 @@
+{
+  "logo": "logo.svg",
+  "title": "Report Title",
+  "excludedTopics": [
+    "Other"
+  ],
+  "excludedOpinions": [
+    "Other"
+  ]
+}
